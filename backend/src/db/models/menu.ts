@@ -31,4 +31,4 @@ const menuSchema = new Schema({
   ],
 });
 
-export const Munu = model("Menu", menuSchema);
+export const Menu = model("Menu", menuSchema);
